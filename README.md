@@ -21,7 +21,12 @@ A simple password generator written in Rust. This program allows you to generate
 
    ```shell
    git clone https://github.com/yourusername/password-generator-rust.git
+   
+2. Navigate to the project directory:
+   
    ```shell
    cd password-generator-rust
+   
+3. Build and run the project using Cargo:
    ```shell
    cargo run
